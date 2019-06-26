@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.droit.hamza.introaudroit.personnesPhysique"
+    android:background="@drawable/background1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            style="@style/body"
+            android:text="@string/introPersPhys"/>
+        <TextView
+            style="@style/x3anawin"
+            android:text="I-  Le commencement de la personnalité juridique"/>
+        <TextView
+            style="@style/body"
+            android:text="@string/commencementPersJuridique"/>
+        <TextView
+            style="@style/x3anawin"
+            android:text="II- L’extinction de la personnalité"/>
+        <TextView
+            android:text="@string/extinctionPerson"
+            style="@style/body"/>
+    </LinearLayout>
+</ScrollView>

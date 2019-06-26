@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.droit.hamza.introaudroit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/law"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".droitObjectifAc"
+            android:label="Droit Objectif" />
+        <activity
+            android:name=".droitSubjectifAc"
+            android:label="Droit Subjectif" />
+        <activity
+            android:name=".caraDeRegle"
+            android:label="Chapitre I :Les caractères essentiels de la règle de Droit" />
+        <activity
+            android:name=".sourceDeRegle"
+            android:label="Chapitre II : les sources de la règle de droit" />
+        <activity
+            android:name=".sujetsDeDroit"
+            android:label="Chapitre I : Les sujets de droit" />
+        <activity
+            android:name=".objetDroitsSubje"
+            android:label="Chapitre II : L’objet des droits subjectifs" />
+        <activity android:name=".regleGeneralAbstraite"
+            android:label="Section I : La règle de droit est une règle générale et abstraite"/>
+        <activity android:name=".regleObligatoir"
+            android:label="Section II : la règle de droit est obligatoire"/>
+        <activity android:name=".sancationEtatique"
+            android:label="Section III : la sanction étatique de la règle de droit"/>
+        <activity android:name=".sourceTrad"
+            android:label="Section I : Les sources traditionnelles de la règle de droit"/>
+        <activity android:name=".sourceModernes"
+            android:label="Section II : les sources modernes de la règle de droit"/>
+        <activity android:name=".personnesPhysique"
+            android:label="Section I : Les personnes physiques"/>
+        <activity android:name=".PersonnesMotal"
+            android:label="Section II : les personnes morales"/>
+        <activity android:name=".distinPatriExtraPatr"
+            android:label="Section I : La distinction des droits patrimoniaux et des droits extrapatrimoniaux"/>
+        <activity android:name=".bienCorporelIncor"
+            android:label="Section II : les biens corporels et les biens incorporels"/>
+        <activity android:name=".classification"
+            android:label="Section III: classification des choses"/>
+        <activity android:name=".distinction"
+            android:label="Section IV : la distinction des meubles et des immeubles"></activity>
+    </application>
+
+</manifest>

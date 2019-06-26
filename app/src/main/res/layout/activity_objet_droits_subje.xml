@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.droit.hamza.introaudroit.objetDroitsSubje"
+    android:background="@drawable/background1">
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            style="@style/body1"
+            android:text="@string/intro_objet_droit_subjectif"/>
+        <Button
+            android:onClick="distPatri"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            style="@style/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#009688"
+            android:text="Section I : La distinction des droits patrimoniaux et des droits extrapatrimoniaux"
+            android:textSize="12sp" />
+        <Button
+            android:onClick="bienCorpore"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            style="@style/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#009688"
+            android:text="Section II : les biens corporels et les biens incorporels"
+            android:textSize="12sp" />
+        <Button
+            android:onClick="clasification"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            style="@style/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#009688"
+            android:text="Section III: classification des choses"
+            android:textSize="12sp" />
+        <Button
+            android:onClick="distinct"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            style="@style/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#009688"
+            android:text="Section IV : la distinction des meubles et des immeubles"
+            android:textSize="12sp" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,266 @@
+<resources>
+    <string name="app_name">Intro Au Droit</string>
+    <string name="intro">Le droit recouvre, deux ensembles différents qui diffèrent
+profondément, même s\'ils se situent en relation. En effet, l\'objet du droit objectif
+est de délimiter les droits subjectifs des personnes. Il reconnaît, en effet, des
+prérogatives aux individus. Ces prérogatives sont des droits subjectifs dont les
+individus peuvent se prévaloir dans leurs relations avec les autres1
+.
+Il ne faut pas perdre de vue que le droit a pour but d\'organiser la vie en
+société, donc de régir des personnes qu\'on appelle sujets de droit. Dans ce second
+sens, le droit est envisagé de façon plus concrète et particulière.
+Cela étant, nous nous pencherons sur deux parties :  </string>
+    <string name="intro_Cara"> Il faut au préalable dégager ses caractères essentiels, à savoir : la généralité
+et l\’abstraction, l\’obligation et la sanction par l\’autorité publique.</string>
+    <string name="intro_source">Quelles sont, alors, les sources actuelles de la règle de droit marocain?
+la règle de droit est issue de deux catégories de sources : les sources
+traditionnelles (droit musulman et du droit coutumier) et les sources
+modernes (le droit international, la loi, la doctrine et la jurisprudence).</string>
+    <string name="intro_droit_subjectif">Les droits subjectifs désignent l\’ensemble des prérogatives ou
+pouvoirs reconnus aux personnes, par la règle de droit objectif, dont le
+respect ou la reconnaissance peut-être réclamé en justice.
+La diversité de ces droits apparaît à travers l\’identification de leurs
+titulaires (chap. I) et la détermination de leur objet (Chap. II).</string>
+    <string name="sujetDeDroit">Sujet de droit c\'est-à-dire le titulaire naturel des droits subjectifs.
+ L\’aptitude à avoir des droits et des obligations est reconnue, a
+priori, aux êtres humains (personnes physiques), mais également à
+certains groupements- de personnes, ou de biens- qui sont érigés en
+personnes distinctes et autonomes (personnes morales).</string>
+    <string name="intro_objet_droit_subjectif">En raison de leur diversité, les droits subjectifs seront classifiés selon
+l’ordre suivant :</string>
+    <string name="regle_general_abstrait"><b>*</b>  Selon J.L. Aubert : « la règle de droit concerne chacun et ne désigne
+personne en particulier ».En effet, la règle juridique n\’est pas faite pour un
+individu ou pour un acte. C’est une disposition absolument impersonnelle
+qui s\’adresse, à toutes les personnes qui remplissent les conditions
+d\’application de cette règle (art. 77 et 261 DOC ou art.179 du code du
+travail).</string>
+    <string name="source_regle_general">Cf. J.L. Aubert « introduction à l\’étude au droit\’ ; collection U, Armand
+Colin ; Paris, 1984, p.10.</string>
+    <string name="porteRelative_generalite"><b>*</b>La généralité de la règle de droit se trouve parfois atténuée, dans la
+mesure où elle concerne une situation plus ou moins étroitement
+définie.\n
+<b>**</b> les dispositions de l’art. 90 de la constitution de 2011, ne concernent
+qu’une seule personne le Chef du gouvernement, cependant, elles
+demeurent des règles générales, abstraites et impersonnelles.\n
+<b>***</b> On assiste également à la régression de la généralité de la règle de
+droit, lorsqu’elle ne s’applique qu’à une catégorie limitée de
+personnes déterminées par leurs activités.\n
+ Exemple :\n
+<b>*</b> les règles du droit commercial pour les commerçants ;\n
+<b>*</b> celles du droit du travail pour les salariés ;\n
+<b>*</b> il en est de même pour les règles relatives au statut des avocats, des
+médecins, des architectes, des militaires, etc.</string>
+    <string name="regleImperative">Les règles impératives ou d\’ordre public s\’imposent sans que les parties
+ne puissent y déroger par des accords particuliers.\n
+Tel est le cas de la plupart des dispositions relevant du droit public et du
+droit pénal.</string>
+    <string name="regleInterperative">Les règles supplétive, « suscitent une conduite particulière, mais les parties
+peuvent parfaitement y déroger, choisir par contrat d\’autres règles qui leur
+conviennent davantage que les règles légales ».\n
+Ces règles sont nombreuses dans le cadre du droit des contrats.
+Elles ne s\’imposent qu’à défaut de volonté, expresse ou tacite, contraire des
+particuliers. (Exp. article 502 du DOC ).</string>
+    <string name="intro_regle_obligatoir">Le caractère obligatoire est lié à la règle de droit dès sa naissance.\n
+Le degré de leur obligation donne lieu à deux catégories de règles :</string>
+    <string name="introSancation">La contrainte institutionnelle permet à l\’autorité publique de sanctionner le
+non respect de la règle de droit</string>
+    <string name="ntionSancation">En principe, la règle de droit est assortie d\’une sanction, au cas où elle serait
+transgressée. La sanction prévue permet d\’en garantir le respect.</string>
+    <string name="introTypeSancation">Les sanctions rendues par le juge, peuvent être soit civiles soit pénales.</string>
+    <string name="sancationCiviles">Les sanctions civiles sont réparties en deux catégories : celles qui
+sont destinées à assurer la réparation et celles engendrant une contrainte.</string>
+    <string name="reparation">Les sanctions donnant lieu à réparation sont de deux types :\n
+ <b>*</b> la nullité des actes juridiques viciés.\n
+<b>**</b> les dommages et intérêts.
+</string>
+    <string name="contrainte">Il existe deux types de contrainte :\n
+<b>*</b> la contrainte directe.\n
+<b>**</b> la contrainte indirecte.</string>
+    <string name="sancatioPenal">Ces peines sanctionnent les actes de délinquance et doivent en principe être
+proportionnées à la gravité de l\’infraction.\n
+A cet effet, le code pénal regroupe les infractions en trois catégories : les
+crimes, les délits et les contraventions. (Art. 111 du CP).
+</string>
+    <string name="crimes">Les peines criminelles principales sont selon l\’article 16 du code pénal : la
+peine de mort (capitale) ; la réclusion perpétuelle ; la réclusion à temps pour
+une durée de 5 à 30 ans ; la résidence forcée ; la dégradation civique.</string>
+    <string name="delits">Ce sont des infractions de gravité moyenne. Leur sanction est précisée par
+l\’article 17, en ces termes : « les peines délictuelles principales sont :\n
+<b>*</b> l\’emprisonnement ;\n
+<b>**</b> l\’amende de plus de 1200 dirhams. »\n
+        (La durée de la peine d\’emprisonnement est d\’un mois au moins et cinq
+années au plus, sauf le cas de récidive ou autres où la loi détermine d\’autres
+limites).\n
+A cet égard, le Code pénal distingue entre deux types de peines délictuelles :</string>
+    <string name="delitCorrectionnels">Comme le précise l\’article 111 al. 2 du CP, est considérée délit
+correctionnel : « toute infraction que la loi punit d\’une peine
+d\’emprisonnement dont elle fixe le maximum à plus de deux ans… ».
+C\’est le cas des articles 401, 505, et 520 du Code pénal.
+</string>
+    <string name="delitPolice">Moins grave que le délit correctionnel, le délit de police est comme le
+précise l\’article 111 alinéa 3 du C.P. toute : « infraction que la loi punit
+d\’une peine d\’emprisonnement dont elle fixe le maximum à deux ans, ou
+moins de deux, ou d\’une amende de plus de 1200 dirhams ». Exp.
+articles 386 et 400 du C.P.</string>
+    <string name="contravention">Selon l\’article 18 du C.P. : « les peines contraventionnelles principales
+sont :\n
+La détention de moins d’un mois ;
+L\’amende de 30 à 1200 dirhams.</string>
+    <string name="fondementsdroitMusu">Les sources du droit musulman sont nombreuses. Les plus importantes qui
+ne font pas l\’objet de divergences doctrinales sont de deux ordres : les
+sources originelles (le Coran et la Sunna) et les sources dérivées (l’Idjmaa et
+le quiyas).</string>
+    <string name="droitMuslmanCommeSource">Dans un pays comme le Maroc, où la religion n\’est pas séparée de
+l\’État, les principes traditionnels du droit musulman sont-ils des
+sources du droit actuellement en vigueur au Maroc ?
+L\’attachement du Maroc à l\’Islam est affirmé, par la Constitution du
+1er juillet 2011. Celle-ci, comme d\’ailleurs les précédentes, après avoir
+précisé, dans son préambule, que le Royaume du Maroc, est un État
+musulman, énonce, dans son article 3, que « l\’islam est religion de
+l\’État qui garantit à tous le libre exercice des cultes ».
+Certes, depuis l\’indépendance du Maroc, le législateur s\’est employé à
+adapter la loi islamique aux besoins nouveaux résultant de la vie
+moderne. Cependant, cela ne signifie aucunement, l\’abandon du droit
+musulman, notamment dans les domaines du code de la famille, du
+statut personnel et successoral au profit du droit moderne d\’inspiration
+européenne.</string>
+    <string name="definitionCoutume">La coutume est une règle de conduite « qui découle d\'une pratique ancienne, d\'un usage qui s\'est
+prolongé dans le temps et qui devient à certaines conditions une règle de droit».
+Pour qu\’il y ait coutume, il faut que deux éléments soient réunis : (à savoir) un élément matériel et un
+élément psychologique :</string>
+    <string name="elementMateriel">Cet élément, suppose l\’existence d\’un comportement suivi d\’une manière habituelle. L\’usage doit être
+assez ancien est relever d\’une mise en œuvre répétée. (Le fait, pour une femme mariée de portée le
+nom de son mari).</string>
+    <string name="elementPsycho">En fonction de cet élément, l\’usage doit être perçu (ressenti) comme un comportement obligatoire par
+l\'opinion commune. C’est l\'opinio juris seu necessitatis. C\’est-à-dire que ceux qui se conforment à
+l\'usage doivent avoir la conviction qu\’il s\’agit d\'une règle contraignante . (Consiste dans le fait que les
+citoyens aient la conviction qu\’ils agissent conformément au droit).</string>
+    <string name="caracyeresUsage">L\'usage coutumier présente les principales caractéristiques de la règle de droit : il est générale et
+impersonnel, bénéficie d\'une certaine notoriété et considéré par les sujets de droit comme ayant un
+caractère obligatoire</string>
+    <string name="rapportsLoiCoutume">Il est classique de distinguer, à ce sujet, trois situations différentes : tout d\’abord, celle où la loi
+renvoie expressément à la coutume ; celle, ensuite, où une coutume vise à combler une lacune de la
+loi ; celle, enfin, où la coutume est contraire à la loi.</string>
+    <string name="droitInternational">Le droit international public, est le droit des relations interétatiques.
+Il englobe l\’ensemble des règles et des principes qui régissent les
+relations entre les États souverains et qui les engagent de manière
+réciproque.
+Les sources formelles du droit international, (selon l\’art. 38 du Statut
+de la Cour internationale de justice) sont: les traités et les conventions
+internationales, la coutume internationale, les principes généraux de
+droit, et l\’équité. Les décisions judiciaires et la doctrine, qui ont
+également été évoqué à l\’art 38 du statut de la CIJ sont des sources
+subsidiaires ou indirectes du droit.\n
+    En cas de conflit entre la législation internationale et la législation
+interne, faut-il donner la suprématie au droit international ou au droit
+interne ?
+Certains systèmes juridiques attribuent au droit international une valeur
+supra constitutionnelle (doctrine moniste). D\’autres systèmes affirment
+leur refus vis-à-vis de cette approche (doctrine dualiste).
+L\'article 27 de la convention de Vienne de 1969, sur le droit des traités,
+dispose : « Une partie ne peut invoquer les dispositions de son droit
+interne comme justifiant la non exécution d\'un traité ».
+La constitution de 2011 affirme dans son préambule que le Maroc
+s\’engage à « accorder aux conventions internationales dûment ratifiées
+par lui, dans le cadre des dispositions de la Constitution et des lois du
+Royaume, dans le respect de son identité nationale immuable, et dès la
+publication de ces conventions, la primauté sur le droit interne du pays,
+et harmoniser en conséquence les dispositions pertinentes de sa
+législation national ».</string>
+    <string name="loi">Source fondamentale de la règle de droit, la loi dans son sens large,
+désigne toutes les règles émanant de l\’autorité publique, et qui présentent
+un caractère général, impersonnel et obligatoire.</string>
+    <string name="jurispridence">Produit de l\’activité judiciaire, la jurisprudence désigne l\’ensemble des
+décisions rendues par les juridictions nationales (Tribunaux et Cours
+d\’appel).</string>
+    <string name="doctrine">La doctrine représente l\’ensemble des opinions émises (écrits,
+commentaires, théories…) sur le droit positif par les juristes
+(professeurs de droit, avocats, notaires, juges etc.) La doctrine n\'est
+pas une source directe du droit, mais elle est importante pour analyser
+et comprendre la norme juridique. Ses critiques peuvent également
+inspirer le législateur et la jurisprudence.</string>
+    <string name="introPersPhys">En tant que principaux sujets de droits subjectifs, les personnes
+physiques se voient reconnaitre la personnalité juridique.
+ La personnalité en soit veut dire l\'aptitude à être titulaire de droits et
+d\’obligations et de pouvoir en jouir librement.</string>
+    <string name="commencementPersJuridique">A partir de quel moment l’individu acquiert la personnalité juridique
+?\n
+<b>*</b> La naissance d\'un individu est la condition sine qua non de
+l\'apparition de sa personnalité juridique. Pour exister, il suffit en
+vertu de l\’art. 331 du code de la famille que l\’enfant soit né vivant.\n
+<b>**</b> Le point de départ de la personne juridique, peut même remonter
+parfois jusqu\’à la date de conception de l\'enfant, lorsqu\’elle présente
+un intérêt pour l\’enfant : règle de "l\'infans conceptus".</string>
+    <string name="extinctionPerson">Tout individu conserve sa personnalité juridique jusqu\'à sa mort.
+Après le décès, subsistent toutefois quelques traces de la personnalité.
+ Des écrits injurieux, diffamatoires envers le décédé peuvent donner
+lieu à une condamnation en dommages et intérêts.</string>
+    <string name="definitionPersMoral">Groupement animé d\’un intérêt propre, et doté de la personnalité
+juridique.\n
+ A- Un groupement de personnes ou de biens\n
+ B- Un groupement animé d\’un intérêt propre\n
+ C- Un groupement doté de la personnalité juridique.</string>
+    <string name="fondationLaoque">Fondation Mohammed V pour la solidarité, Fondation Mohammed VI
+de promotion des Œuvres sociales de l\’Education Formation,
+Fondation du Roi Abdul Aziz Al Saoud pour les Etudes Islamiques et
+les Sciences humaines.</string>
+    <string name="persMorDroitPub">l\’Etat, les collectivités territoriales (communes, provinces,
+préfectures et Régions), et les offices et établissements publics.</string>
+    <string name="persMorDroitPri">Les personnes morales à but lucratifs (les sociétés) et celles à but
+désintéressé (les associations, les coopératives, les mutuelles, les
+syndicats professionnel etc).</string>
+    <string name="droitsPatri">Les droits patrimoniaux font partie du patrimoine du sujet de droit.
+ Constitués de biens évaluables en argent (droit de propriété et droit de
+créance), ils ont une valeur d\'échange.\n Ils sont cessibles, transmissibles aux héritiers, saisissables par les
+créanciers, et prescriptibles.</string>
+    <string name="droitExtraPatri">Les droits extra –patrimoniaux sont hors du patrimoine du sujet
+auquel ils sont rattachés.\n
+ Ils n\’ont pas de valeur pécuniaire.\n
+ Ces droits sont incessibles, intransmissibles aux héritiers, insaisissables
+par les créanciers, et imprescriptibles.\n
+    Trois catégories de droits extra-patrimoniaux peuvent être identifiées :\n
+<b>*</b> Les droits civils et politiques du citoyen;\n
+<b>**</b> Les droits de la personnalité;\n
+<b>***</b> Les droits dits " de famille ".</string>
+    <string name="droitreelPrinc">Il s\’agit du droit de propriété et ses démembrements:\n
+ Le droit de propriété, le droit d\’usufruit, le droit des Habous, les
+droits d\’usage et d\’habitation, le droit de l\’emphytéose, le droit de
+superficie, le droit de servitude.</string>
+    <string name="droitreelaccessoires">Les droits réels accessoires sont liés à l’existence d’une créance dont
+ils garantissent le recouvrement.
+ Cas essentiellement de l’hypothèque et du gage.
+</string>
+    <string name="droitPersCreance">Le droit personnel ou de créance lie deux personnes.
+ Il se définit comme le droit subjectif qu\'a une personne, appelée
+créancier, d\'exiger d\'une autre personne, le débiteur, une certaine
+prestation.</string>
+    <string name="droitIntellectuel"><b>*</b> Les droits de propriété industrielle ou commerciale qui regroupent
+d\'une part les droits sur les signes distinctifs (en particulier les
+marques), d\'autre part les droits sur les créations (brevets d\'invention,
+dessins et modèles…).\n
+   <b>**</b> Les droits de propriété littéraire et artistique (droits d\'auteur) qui sont
+aujourd\'hui appliqués également aux logiciels, aux bases de données
+et aux œuvres " numériques " ou " multimédias ".</string>
+    <string name="bienCorporel">les biens corporels : sont tous les biens objet de droits qui ont une
+existence matérielle : un immeuble ou un objet mobilier quelconque.</string>
+    <string name="bienInCorporel">ce sont des biens qui ont une valeur
+économique, mais qui n\’ont pas d\’existence matérielle : propriété
+littéraire et artistique, fonds de commerce.</string>
+    <string name="classification"><b>*</b> La distinction des choses consomptibles et des choses non
+consomptibles \n
+<b>**</b> la distinction des choses fongibles et des choses non fongibles.</string>
+    <string name="Immeubles">La notion d\’immeuble désigne la terre et tout ce qui y est fixé.\n
+ Elle se rapporte aux biens insusceptibles de déplacement regroupés
+par le législateur en trois catégories (art. 5 du code foncier du 2 juin
+1915).\n
+ <b>*</b> les immeubles par nature ;\n
+ <b>**</b> les immeubles par destination ; \n
+ <b>***</b> les immeubles par l\’objet auquel ils s\’appliquent.</string>
+    <string name="meubles">Le législateur marocain, reconnaît, toutefois, l\’existence de deux
+catégories de biens meubles : les meubles par nature et les meubles
+par anticipation.\n
+ A ces deux catégories le législateur français ajoute une troisième,
+concernant les meubles par détermination de la loi.</string>
+
+
+</resources>

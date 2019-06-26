@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.droit.hamza.introaudroit.sancationEtatique"
+    android:background="@drawable/background1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            style="@style/body"
+            android:text="@string/introSancation"/>
+        <TextView
+            style="@style/x3anawin"
+            android:text="I- La notion de sanction"/>
+        <TextView
+            style="@style/body"
+            android:text="@string/ntionSancation"/>
+        <TextView
+            style="@style/x3anawin"
+            android:text="II-Les différents types de sanctions"/>
+        <TextView
+            android:text="@string/introTypeSancation"
+            style="@style/body"/>
+        <TextView
+            style="@style/sous3anawin"
+            android:text="A- Les sanctions civiles"/>
+        <TextView
+            android:text="@string/sancationCiviles"
+            style="@style/body"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="1- La réparation"/>
+        <TextView
+            android:text="@string/reparation"
+            style="@style/body"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="2- La contrainte"/>
+        <TextView
+            android:text="@string/contrainte"
+            style="@style/body"/>
+        <TextView
+            style="@style/sous3anawin"
+            android:text="B- les sanctions pénales"/>
+        <TextView
+            android:text="@string/sancatioPenal"
+            style="@style/body"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="1 – les crimes"/>
+        <TextView
+            android:text="@string/crimes"
+            style="@style/body"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="2- les délits"/>
+        <TextView
+            android:text="@string/delits"
+            style="@style/body"/>
+        <TextView
+            style="@style/sousSousSous3anawin"
+            android:text="a- Les délits correctionnels"/>
+        <TextView
+            android:text="@string/delitCorrectionnels"
+            style="@style/body"/>
+        <TextView
+            style="@style/sousSousSous3anawin"
+            android:text="b- Les délits de police"/>
+        <TextView
+            android:text="@string/delitPolice"
+            style="@style/body"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="3- Les contraventions "/>
+        <TextView
+            android:text="@string/contravention"
+            style="@style/body"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

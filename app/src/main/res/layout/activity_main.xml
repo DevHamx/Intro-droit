@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.droit.hamza.introaudroit.MainActivity"
+    android:background="@drawable/background1">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+    <TextView
+        style="@style/body1"
+        android:text="@string/intro"/>
+        <LinearLayout
+            android:gravity="center_horizontal|bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:gravity="left"
+                android:orientation="vertical"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/r2"
+                    android:layout_gravity="center_horizontal"/>
+
+            <Button
+                style="@style/buttons"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#ff867c"
+                android:onClick="droitObjectif"
+                android:text="droit objectif"
+                android:textSize="16sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:gravity="right"
+                android:orientation="vertical"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/r1"
+                    android:layout_gravity="center_horizontal"/>
+
+            <Button
+                style="@style/buttons"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#009688"
+                android:onClick="droitSubjectif"
+                android:text="Droit Subjectif"
+                android:textSize="16dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

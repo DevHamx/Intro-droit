@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.droit.hamza.introaudroit.regleObligatoir"
+    android:background="@drawable/background1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            style="@style/body"
+            android:text="@string/intro_regle_obligatoir"/>
+
+        <TextView
+            style="@style/x3anawin"
+            android:text="I- Les règles impératives ou d’ordre public"/>
+
+        <TextView
+            style="@style/body"
+            android:text="@string/regleImperative"/>
+
+        <TextView
+            style="@style/x3anawin"
+            android:text="II-les règles supplétives ou interprétatives"/>
+
+        <TextView
+            android:text="@string/regleInterperative"
+            style="@style/body"/>
+
+    </LinearLayout>
+</ScrollView>

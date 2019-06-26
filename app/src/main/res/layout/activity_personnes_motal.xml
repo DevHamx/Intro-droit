@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.droit.hamza.introaudroit.PersonnesMotal"
+    android:background="@drawable/background1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            style="@style/x3anawin"
+            android:text="I- Définition des personnes morales"/>
+        <TextView
+            style="@style/body"
+            android:text="@string/definitionPersMoral"/>
+        <TextView
+            style="@style/x3anawin"
+            android:text="II- Les différents types de personnes morales"/>
+        <TextView
+            style="@style/sous3anawin"
+            android:text="1- les groupements de biens"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="a- Les fondations religieuses (Habous ou Wakf )"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="b- Les fondations laïques "/>
+        <TextView
+            android:text="@string/fondationLaoque"
+            style="@style/body"/>
+        <TextView
+            style="@style/sous3anawin"
+            android:text="2- - Les groupements de personnes"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="a- Les personnes morales de droit public"/>
+        <TextView
+            android:text="@string/persMorDroitPub"
+            style="@style/body"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="b- Les personnes morales de droit privé"/>
+        <TextView
+            android:text="@string/persMorDroitPri"
+            style="@style/body"/>
+
+    </LinearLayout>
+</ScrollView>

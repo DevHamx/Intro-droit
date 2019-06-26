@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.droit.hamza.introaudroit.distinPatriExtraPatr"
+    android:background="@drawable/background1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            style="@style/x3anawin"
+            android:text="I- Définition "/>
+        <TextView
+            style="@style/body"
+            android:text="@string/droitsPatri"/>
+        <TextView
+            style="@style/body"
+            android:text="@string/droitExtraPatri"/>
+        <TextView
+            style="@style/x3anawin"
+            android:text="II- Les différents droits patrimoniaux"/>
+        <TextView
+            style="@style/sous3anawin"
+            android:text="A- Les droits réels :"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="1- les droits réels principaux :"/>
+        <TextView
+            style="@style/body"
+            android:text="@string/droitreelPrinc"/>
+        <TextView
+            style="@style/sousSous3anawin"
+            android:text="2- Les droits réels accessoires"/>
+        <TextView
+            style="@style/body"
+            android:text="@string/droitreelaccessoires"/>
+        <TextView
+            style="@style/sous3anawin"
+            android:text="B- Les droits personnels ou de créance :"/>
+        <TextView
+            style="@style/body"
+            android:text="@string/droitPersCreance"/>
+
+        <TextView
+            style="@style/sous3anawin"
+            android:text="C- Les droits intellectuels"/>
+        <TextView
+            style="@style/body"
+            android:text="@string/droitIntellectuel"/>
+
+    </LinearLayout>
+</ScrollView>

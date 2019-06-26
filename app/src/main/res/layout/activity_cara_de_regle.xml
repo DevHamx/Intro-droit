@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.droit.hamza.introaudroit.caraDeRegle"
+    android:background="@drawable/background1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        style="@style/body1"
+        android:text="@string/intro_Cara"/>
+        <Button
+            android:onClick="regleGenAbst"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="#ff867c"
+            style="@style/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="La règle de droit est une règle générale et abstraite"/>
+        <Button
+            android:onClick="regleObligatoir"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="#ff867c"
+            style="@style/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="la règle de droit est obligatoire"/>
+        <Button
+            android:onClick="sancationRegle"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            style="@style/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#ff867c"
+            android:text=" la sanction étatique de la règle de droit" />
+
+</LinearLayout>
+</ScrollView>
